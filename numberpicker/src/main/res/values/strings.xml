@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">library</string>
+    <string name="font_path" translatable="false">AlexBrush-Regular.ttf</string>
+</resources>
